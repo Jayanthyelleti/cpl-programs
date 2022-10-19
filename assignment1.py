@@ -1,3 +1,4 @@
+# Python program that prompts the user to enter a time in seconds and outputs the entered time as days, hours, minutes and seconds.
 #Jayanth Adithya Yelleti(jay26@njit.edu)
 time = float(input("Enter time in seconds: "))
 print()
